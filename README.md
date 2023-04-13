@@ -1,4 +1,4 @@
-# AngularExercise0
+# AngularExercise
 
 ## Athens University of Economics and Business ([AUEB](https://aueb.gr/))
 A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) Web Project. Chapter 21. Typescript - Angular - products-frontend
